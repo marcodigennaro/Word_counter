@@ -1,10 +1,9 @@
 ## 1.README
 1.1 Word_counter.py reads a group of text files and returns the most used key-words in each text file. A key-word can be a single word, a couple or a triplets of words.
-
 1.2 After checking the most occurring key-word in one document, Word_counter.py checks the occurrence of the most repeated key-words in one text file over all the other files.
 
 ## 2.CONTENTS
-2.1 README.md
+2.1 README.txt
 2.2 Word_counter.py
 2.3 user_defined_stopwords.txt
 
